@@ -7,9 +7,7 @@ $(document).ready(function() {
   
       // loop over the different blocks of time
       $('.time-block').each(function() {
-        var time_block = parseInt(
-          $(this).attr('id')
-        );
+        var time_block = parseInt($(this).attr('id'));
 
         // depending on the time, add/remove certain classes
         if (time_block < current_hour) {
