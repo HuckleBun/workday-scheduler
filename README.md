@@ -1,10 +1,9 @@
 
 # Code Quiz
-As a coding student, I want to be able to be able to study different terms and keywords in a simple, clean, and easy way. That is what this web application provides. It has a very simple and easy to navigate UI. The program includes the feature of setting scores based on how well you do during the quiz to give you more drive to do better each time you take the quiz. The web application uses localStorage to save those high scores so that when you close your browser and then come back at a later time to test your knowledge once again, you will be able to see all your previous high scores inside the "View Highscores" section
+As an employee of a company, you want to easily schedule out your day so that you can know what you need to get done hour by hour. This is where Workday Scheduler comes in. Very simply input what you want to do next to each time block and hit the save button on the right to save that information so you can come back and check in on it whenever you need.
 
 ## What is used to create this webpage
 -  Javascript
---asdwasd
 -  HTML
 -  CSS
 
@@ -15,7 +14,7 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
 ## Demo of the project
-![code-quiz](https://user-images.githubusercontent.com/62036600/130985616-4560895b-035a-4d44-b88f-04bf01669878.gif)
+![workday-image](https://user-images.githubusercontent.com/62036600/132601570-559ecf42-7f97-4976-8c54-382425539667.JPG)
 
 ## Deployed Application
 https://hucklebun.github.io/workday-scheduler/
